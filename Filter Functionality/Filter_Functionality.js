@@ -88,4 +88,3 @@ descriptionFilter.addEventListener('keyup', function (e) {
     }
 
 });
-

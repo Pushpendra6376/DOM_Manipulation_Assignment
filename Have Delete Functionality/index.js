@@ -45,5 +45,4 @@ function removeUserFromList(userDetails, li) {
     // Remove the list item from the DOM
     li.remove();
 }
-
 module.exports = handleFormSubmit;
